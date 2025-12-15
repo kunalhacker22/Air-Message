@@ -24,7 +24,7 @@ A whimsical web application that transforms user-inputted text into animated, pi
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/kunalhacker22/Air-Message.git]
     ```
 2.  **Open the File:**
     Open the `air messge.html` file directly in your web browser.
